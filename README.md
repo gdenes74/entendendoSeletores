@@ -11,6 +11,6 @@ e em "fechar" marcar nunca.
 5. [x] selecionado o identificador restrito, pois será feito uma busca no caso específico pela tag e eplo atributo id.
 
 ![link para you tube](./icon/youtube.png)
-(https://www.youtube.com/watch?v=_vhfOlHGVug)
+https://www.youtube.com/watch?v=_vhfOlHGVug
 
 ![contato para linkedin](./icon/linkedin.png) www.linkedin.com/in/guilhermedenes
